@@ -6,7 +6,7 @@ itemCount.innerText = document.querySelectorAll('.list').length;
 mobCount.innerText = document.querySelectorAll('.list').length;
 
 
-/* Change Theme */
+/* To change Theme */
 const themeIcon = document.querySelector('.theme');
 
 themeIcon.addEventListener('click',()=>{
